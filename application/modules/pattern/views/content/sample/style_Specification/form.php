@@ -6,7 +6,6 @@
 				<?php
 				//print_r($methodid);
 				?>
-				test
 				<div class="tab tab-border">
 					<ul class="nav nav-tabs form_tab_<?php echo $methodid ?>" role="tablist">
 						<li class="nav-item">
@@ -30,7 +29,7 @@
 							</a>
 						</li>
 					</ul>
-
+					<button>coba</button>
 					<div class="tab-content">
 
 						<div class="tab_custom_ecc tab-pane fade active show" id="content_<?php echo $methodid; ?>_header" role="tabpanel" aria-labelledby="tab_<?php echo $methodid; ?>_header">
