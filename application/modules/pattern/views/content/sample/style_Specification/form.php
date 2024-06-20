@@ -41,7 +41,7 @@
 											$this->ecc_library->form('text','',"form_".$methodid,'style_spec_header_id','');
 											//$this->ecc_library->form('hidden','',"form_".$methodid,'badgenumber','');
 										?>
-										
+									<input type="text" value="pak ali" placeholder="pak ali">
 										<div class="row">
 											<div class="col-xl-4">
 											  <div class="row">
