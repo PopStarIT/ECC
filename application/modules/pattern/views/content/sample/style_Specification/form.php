@@ -29,7 +29,7 @@
 							</a>
 						</li>
 					</ul>
-					<button>cobax</button>
+					<button>cobaxxxxxxxxxxxxxxxxxxxx</button>
 					<div class="tab-content">
 
 						<div class="tab_custom_ecc tab-pane fade active show" id="content_<?php echo $methodid; ?>_header" role="tabpanel" aria-labelledby="tab_<?php echo $methodid; ?>_header">
